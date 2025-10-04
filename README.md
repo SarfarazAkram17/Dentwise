@@ -20,7 +20,13 @@ Highlights:
 - ⚡ Data Fetching with TanStack Query
 - 🤖 CodeRabbit for PR Optimizations
 - 🧑‍💻 Git & GitHub Workflow (branches, PRs, merges)
-- 🚀 Deployment on Sevalla (free-tier friendly)
+- 🚀 Deployment on Sevalla (free-tier friendly) and Vercel
+
+---
+## 🔗 Live Links
+
+- 🌐 **Sevalla Link**: [Go Live](https://dentwise-rzbqc.sevalla.app)
+- 🌐 **Vercel Link**: [Go Live](https://dentwise-pi.vercel.app)
 
 ---
 

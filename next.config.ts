@@ -17,6 +17,7 @@ const nextConfig: NextConfig = {
         hostname: "avatar.iran.liara.run",
       },
     ],
+    unoptimized: true,
   },
 };
 
