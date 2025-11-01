@@ -21,10 +21,10 @@ Highlights:
 - 🚀 Deployment on Sevalla (free-tier friendly) and Vercel
 
 ---
-## 🔗 Live Links
 
-- 🌐 **Sevalla Link**: [Go Live](https://dentwise-rzbqc.sevalla.app)
-- 🌐 **Vercel Link**: [Go Live](https://dentwise-pi.vercel.app)
+## 🔗 Live Project
+
+- 🌐 **Live Link**: [Go Live](https://dentwise-pi.vercel.app)
 
 ---
 
